@@ -1,5 +1,5 @@
 # MAZE BANK
-un projet d'apprentissage
+Un projet d'apprentissage.
 Petite banque en console écrite en Python, 
 avec création de compte,
 dépôts,
